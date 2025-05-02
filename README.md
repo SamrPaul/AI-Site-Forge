@@ -1,10 +1,10 @@
-# PythaPress
+# AI-Site Forge
 
-PythaPress is a web application that enables registered users to build and organize multiple websites by interacting with a **Large Language Model (LLM)** in natural language, in real-time. Users can create, edit, and manage website sections and templates, all while previewing their changes live.
+AI-Site Forge is a web application that enables registered users to build and organize multiple websites by interacting with a **Large Language Model (LLM)** in natural language, in real-time. Users can create, edit, and manage website sections and templates, all while previewing their changes live.
 
 ## Overview
 
-PythaPress leverages the Node.js, Express, and MongoDB stack to provide a robust backend, while using EJS for templating and Bootstrap for responsive design. The application is designed to be user-friendly, making it accessible even to users with a non-technical background.
+AI-Site Forge leverages the Node.js, Express, and MongoDB stack to provide a robust backend, while using EJS for templating and Bootstrap for responsive design. The application is designed to be user-friendly, making it accessible even to users with a non-technical background.
 
 ### Technologies Used:
 
@@ -24,7 +24,7 @@ PythaPress leverages the Node.js, Express, and MongoDB stack to provide a robust
 
 ### Project Structure:
 ```
-PythaPress/
+AI-Site Forge /
 ├── models/
 │   ├── Page.js
 │   ├── User.js
