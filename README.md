@@ -1,6 +1,6 @@
 # PythaPress
 
-PythaPress is a web application that enables registered users to build and organize multiple websites by interacting with a Large Language Model (LLM) in natural language, in real-time. Users can create, edit, and manage website sections and templates, all while previewing their changes live.
+PythaPress is a web application that enables registered users to build and organize multiple websites by interacting with a **Large Language Model (LLM)** in natural language, in real-time. Users can create, edit, and manage website sections and templates, all while previewing their changes live.
 
 ## Overview
 
@@ -94,8 +94,8 @@ PythaPress/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/PythaPress.git
-   cd PythaPress
+   git clone https://https://github.com/SamrPaul/AI-Site-Forge.git
+   cd AI-Site-Forge
    ```
 
 2. **Install dependencies:**
@@ -117,8 +117,3 @@ PythaPress/
 5. **Access the application:**
    - Open your browser and navigate to `http://localhost:3000`.
 
-### License
-
-The project is open source, licensed under the MIT License. See the [LICENSE](LICENSE).
-
-Copyright © 2024 Pythagora-io. 
